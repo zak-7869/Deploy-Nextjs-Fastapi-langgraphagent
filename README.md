@@ -400,13 +400,6 @@ Choose a license before publishing the repository. For example, you may use the 
 
 ---
 
-### flowchart 
-````
-<img width="2287" height="3273" alt="image" src="https://github.com/user-attachments/assets/9477e892-5af5-4aef-86d4-a5349cc54951" />
-
-
-````
-
 
 
 Built with LangGraph, Groq, Tavily, FastAPI, and Next.js.
